@@ -1,1 +1,2 @@
 # DSC-420-Mariucci
+This project is my submission to the Kaggle Airline Satisfaction Prediction playground series. The goal of the project was to predict passenger satisfaction given different variables about the flight and the passenger. I fit a baseline logistic regression model, a K-Nearest Neighbors model, a Decision Tree model, and finally a Random Forest model where my submission finished in 3,494th place with an ROC score of 0.95413. 
